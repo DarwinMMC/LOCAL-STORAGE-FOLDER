@@ -20,10 +20,10 @@ o simplemente podemos ejecutarlo desde nuestro ordenador.
  
  
 
-## Cambios
+## configuración extra
    automáticamente se selecciona la interfaz de red asociada a la conexión inalámbrica si tu tarjeta inalámbrica no se llama como las siguientes
    <ul><li>wlp3s0</li><li>wlan0</li><li>Wi-Fi</li><li>eth0</li></ul>
-   podras agregar el nombre que identifica tu conexion inalambrica en el archivo  <strong> config.js <strong>  en condicional como se se muestra acontinuacion
+   podras agregar el nombre que identifica tu conexion inalambrica en el archivo  <strong> config.js </strong> 
    
    
   
