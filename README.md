@@ -9,7 +9,7 @@ o simplemente podemos ejecutarlo desde nuestro ordenador.
 
 
 ### Instalación 🚀
-1) primero debes comprabar si tienes los comandos de nodejs en  tus sistema puedes usar node -v, si no se reconoce como comando probablemente no tienes node en tus variables de entorno puedes configurarlas o usar la consola que nos proporciona node al instalar
+1) primero debes comprabar si tienes los comandos de nodejs en  tus sistema puedes usar ```` node -v ```` si no se reconoce como comando probablemente no tienes node en tus variables de entorno puedes configurarlas o usar la consola que nos proporciona node al instalar
 2) descarga el proyecto 
 2) ubícate en la carpeta del proyecto desde la consola 
 3) ejecuta
